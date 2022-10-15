@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ramos Paredes"
+  given-names: "Sebastian"
+  orcid: "https://orcid.org/0000-0002-7406-6155"
+title: "The Missing Link in the Technological Maturity of Membrane Distillation Associated Code"
+version: 1.0.0
+doi: 10.5281/zenodo.7212483
+date-released: 2022-10-15
+url: "https://github.com/SebastianARP/DCMD-Simulation"
